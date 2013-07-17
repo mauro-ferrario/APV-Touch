@@ -1,0 +1,55 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Pos x</Name>
+    <Value>160</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Pos y</Name>
+    <Value>127.2</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Area width</Name>
+    <Value>342.4</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Area height</Name>
+    <Value>249.6</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Min Blob Size</Name>
+    <Value>237</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Max Blox Size</Name>
+    <Value>100000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Min Depth Range</Name>
+    <Value>24</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Perc is hand</Name>
+    <Value>0.42</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Area is hand</Name>
+    <Value>12400</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance to prev point</Name>
+    <Value>2</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Show grid</Name>
+    <Value>1</Value>
+</Widget>
